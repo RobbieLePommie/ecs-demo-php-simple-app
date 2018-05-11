@@ -1,4 +1,11 @@
-<html lang="en">
+<?php
+
+breaknow();
+
+?>
+
+
+html lang="en">
 
     <head>
         <meta charset="utf-8">
